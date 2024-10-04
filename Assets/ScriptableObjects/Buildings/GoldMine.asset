@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570f0d1c521b4d429bd01c94df962ca, type: 3}
+  m_Name: GoldMine
+  m_EditorClassIdentifier: 
+  buildingName: Gold Mine
+  buildingPrefab: {fileID: 56106759230289530, guid: d23b4cfba43a94ea7b95c7bfd2531aef,
+    type: 3}
+  buildingHealth: 1000
+  goldCost: 0
+  villagerUse: 0
+  resourceAmountAdd: 0
